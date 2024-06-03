@@ -17,7 +17,7 @@ function Home() {
                     </p>
                 </div>
                 <div className="image">
-                    <img style={{ "width": "100%", "borderRadius": "10px" }} src="../public/Pics/homePic3.jpeg" alt="Description" />
+                    <img style={{ "width": "100%", "borderRadius": "10px" }} src="../Pics/homePic3.jpeg" alt="Description" />
                 </div>
             </section>
             
@@ -25,7 +25,7 @@ function Home() {
 
             <section style={{"backgroundColor" : "#e5e5e5" , "borderRadius" : "15px"}} className="section">
                 <div className="image">
-                    <img src="../public/Pics/homePic1.jpeg" alt="Description" />
+                    <img src="../Pics/homePic1.jpeg" alt="Description" />
                 </div>
                 <div className="text">
                     <h6>First Of All</h6>
@@ -40,7 +40,7 @@ function Home() {
 
             <section  className="section reverse">
                 <div className="image">
-                    <img style={{"width" : "60%"}} src="../public/Pics/services.jpeg" alt="Description" />
+                    <img style={{"width" : "60%"}} src="../Pics/services.jpeg" alt="Description" />
                 </div>
                 <div className="text">
                     <h6>Not to mention</h6>
@@ -53,7 +53,7 @@ function Home() {
 
             <section style={{"backgroundColor" : "#e5e5e5" , "borderRadius" : "15px"}} className="section">
                 <div className="image">
-                    <img src="../public/Pics/goals.jpeg" alt="Description" />
+                    <img src="../Pics/goals.jpeg" alt="Description" />
                 </div>
                 <div className="text">
                     <h6>And let's not forget</h6>
