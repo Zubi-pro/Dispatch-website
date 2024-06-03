@@ -13,7 +13,7 @@ const Services = () => {
                     </p>
                 </div>
                 <div className="image">
-                    <img style={{ "width": "50%", "borderRadius": "10px" }} src="../public/Pics/goals.jpeg" alt="Description" />
+                    <img style={{ "width": "50%", "borderRadius": "10px" }} src="../Pics/goals.jpeg" alt="Description" />
                 </div>
             </section>
 
