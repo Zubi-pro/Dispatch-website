@@ -31,7 +31,7 @@ function Nav() {
 
         </div>
         <div className="nav-logo">
-          <img src="../public/Pics/logo.jpeg" alt="Logo" />
+          <img src="../Pics/logo.jpeg" alt="Logo" />
         </div>
         <div className={`hamburger ${isOpen ? 'open' : ''}`} onClick={toggleMenu}>
           <span></span>
