@@ -11,12 +11,7 @@ function Nav() {
     setIsOpen(!isOpen);
   };
 
-  const scrollToPrivacyPolicy = () => {
-    const privacyPolicySection = document.getElementById('privacy-policy');
-    if (privacyPolicySection) {
-      privacyPolicySection.scrollIntoView({ behavior: 'smooth' });
-    }
-  };
+
 
   return (
     <>
@@ -31,7 +26,7 @@ function Nav() {
 
         </div>
         <div className="nav-logo">
-          <img src="../Pics/logo.jpeg" alt="Logo" />
+          <img src="../Pics/logoNew.jpeg" alt="Logo" />
         </div>
         <div className={`hamburger ${isOpen ? 'open' : ''}`} onClick={toggleMenu}>
           <span></span>
