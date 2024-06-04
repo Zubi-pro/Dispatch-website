@@ -10,9 +10,9 @@ function Home() {
         <div className="home">
             <section style={{ "padding": "50px 5px" }} className="section">
                 <div className="text">
-                    <h1 style={{ "fontSize": "60px" }}>Welcome to  Zenith Freight Solutions</h1>
-                    <p>
-                        Driving Desires, Delivering Success
+                    <h1 style={{ "fontSize": "60px" }}>Welcome to  Zenith Freight Solutions LLC</h1>
+                    <p style={{"fontSize" : "1.5rem"}}>
+                        Rolling Loads , Delivering Success
 
                     </p>
                 </div>
