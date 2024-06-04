@@ -10,10 +10,16 @@ function Footer() {
     <footer className="footer">
       <div className="footer-content">
         <div className="footer-section about">
-          <h1 className="logo-text">MyWebsite</h1>
+          <h1 className="logo-text">ZFS</h1>
           <p>
-            MyWebsite is a platform where you can find amazing content and resources.
-            Follow us on our social media channels to stay updated.
+           Reliable Freight Solutions
+Trucking Excellence Guaranteed
+Dispatching with Precision and Care
+Your Partner in Logistics
+Moving Your Business Forward
+Safe, Efficient, and Reliable Transportation
+Expert Dispatch Services You Can Count On
+The Wheels That Keep Your Business Moving
           </p>
           
           <div className="contact">
