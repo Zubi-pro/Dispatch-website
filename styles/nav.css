@@ -138,7 +138,7 @@
 .hamburger span {
   height: 3px;
   width: 25px;
-  background: #fff;
+  background: #747474;
   margin: 4px;
   transition: 0.4s;
 }
@@ -167,11 +167,12 @@
 
 .mobile-menu.open {
   display: flex;
+  background: gainsboro;
 }
 
 .mobile-menu a {
   margin: 10px 0;
-  color: #fff;
+  color: #747474;
 }
 
 .mobile-menu .active-link {
