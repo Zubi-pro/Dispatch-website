@@ -183,7 +183,9 @@
   .hamburger {
     display: flex;
   }
-  
+  .navbar {
+  justify-content: space-between;
+}
   .nav-links {
     display: none;
   }
