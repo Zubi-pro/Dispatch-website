@@ -6,7 +6,7 @@ import '../styles/wa.css'
 function WhatsAppFloatingButton() {
   return (
     <div className="whatsapp-floating-button">
-      <a href="https://wa.me/+923225602843" target="_blank" rel="noopener noreferrer">
+      <a href="https://wa.me/+19294311882" target="_blank" rel="noopener noreferrer">
         <FontAwesomeIcon icon={faWhatsapp} size="3x" />
       </a>
     </div>
