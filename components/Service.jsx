@@ -4,7 +4,7 @@ import ServiceList from './ServiceList'
 const Services = () => {
     return (
         <>
-            <section style={{ "padding": "50px 5px" }} className="section">
+            <section style={{ "padding": "5px 5%" }} className="section">
                 <div className="text">
                     <h1 style={{ "fontSize": "60px" }}>Our services</h1>
                     <p>
